@@ -1,4 +1,4 @@
-Generate restaurant names using Langchain and Gemini
+# Generate restaurant names using Langchain and Gemini
 
 Selecting a cuisine from the selection bar this app will generate a name for that restaurant and a list of ten menu items.
 
